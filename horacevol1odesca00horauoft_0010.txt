@@ -1,0 +1,29 @@
+SIGLA
+
+a = codex Ambrosianus 136, saec. x
+Β -- codex Bernensis 363, saecsix ‘exeuntis
+C et E: partes duae codicis Monacensis 1468 5, sace. xi
+D = codex‘Argentoratensis deperditus, saec. x
+M = codex Mellicensis, saec. xi
+
+α = consensus ‘codicum aBCDEM
+
+δ = codex Harleianus 272 5, saec. ix
+π = codex Parisinus 10310‚ saec. ix-x
+φ = codex Parisinus 7974, saec. x
+
+ψ = codex Parisinus 7971, saec. x
+
+Β = consensus codicumv δπφψ (in Sermonum
+maxima parte φψῙε in Epp. i. 8. 7—ii. 2. 19
+πφψ) ’
+
+V = codex Blandinius V etustissimus deperditus,
+saec. x (?)
+Acr. = interpretationes Pseudo-Acronis
+Porph. = interpretationes Porphyrionis
+
+Comm. Cruq. = commentator Cruquianus
+
+² Vide adSerm. i. 2. 71, 114
+
